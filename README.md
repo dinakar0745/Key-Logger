@@ -76,7 +76,6 @@ Key.ctrl_l
 
 '\x03'
 ```
-![Alt text](image.png)
 
 ## Contributing
 
